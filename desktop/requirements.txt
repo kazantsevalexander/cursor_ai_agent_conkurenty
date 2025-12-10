@@ -1,0 +1,4 @@
+PyQt6==6.6.1
+PyInstaller==6.3.0
+requests==2.31.0
+
